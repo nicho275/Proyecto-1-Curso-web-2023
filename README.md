@@ -10,3 +10,42 @@ La plataforma también incluye herramientas de análisis y seguimiento de ventas
 Nuestro objetivo es ayudar a los estudiantes a generar ingresos y pagar sus estudios, al mismo tiempo que fomentamos la colaboración y el apoyo entre la comunidad escolar. Creemos que nuestro proyecto puede ser un gran beneficio para la Escuela Nacional Preparatoria y esperamos que pueda ser implementado pronto.
 
 ¡Gracias por su atención!
+
+[Link text](https://www.figma.com/file/Z8N8Yc84R9QhaSgg19exuL/Ideas-pt.2?type=design&node-id=0%3A1&t=xId0JQng2J2kH5qR-1)
+
+Tecnologias implementadas:
+  *HTML
+  ⁺CSS
+  *MARIADB
+  *MONGODB
+  *JS
+  *PHP
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
