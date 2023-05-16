@@ -46,3 +46,17 @@ button{
     width: 201;
     height: 37px;
 }
+.links{
+    padding-left: 1000px;
+}
+.navBar{
+    display: ruby;
+}
+.title_nav{
+    padding-left: 50px;
+    font-size: xx-large;
+}
+a{
+    color: black;
+    padding-left: 20px ;
+}
