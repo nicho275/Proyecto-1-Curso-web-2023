@@ -1,12 +1,48 @@
-html{
+html {
     font-family: 'Montserrat', sans-serif;
 }
-body{
+
+body {
     background-image: url("../media/backgroud.png");
 }
-.forms{
+
+.forms {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     padding-top: 180px;
+}
+
+.formulario {
+    width: 230px;
+    height: 250px;
+    display: grid;
+    justify-content: center;
+    background-color:  #7BD3DD ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius:0.5rem ;
+}
+.formulario_registro{
+    width: 230px;
+    height: 350px;
+    display: grid;
+    justify-content: center;
+    background-color: #7BD3DD;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 0.5rem;
+}
+
+input {
+    border-radius: 0.5rem;
+    background-color: #7BD3DD;
+    width: 201px;
+    height: 37px;
+}
+button{
+    border-radius: 0.5rem;
+    background-color: #008EEA;
+    width: 201;
+    height: 37px;
 }
