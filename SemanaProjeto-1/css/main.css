@@ -1,0 +1,12 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-image: url("../media/backgroud.png");
+}
+.forms{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 180px;
+}
